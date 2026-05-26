@@ -2,5 +2,12 @@
   "apiBaseUrl": "https://bus-agency-tracker-production.up.railway.app",
   "minVersion": "1.0.0",
   "message": null,
-  "updateUrl": null
+  "updateUrl": null,
+  "updateUrlAndroid": null,
+  "updateUrlIos": null,
+  "updateUrlWindows": null,
+  "updateUrlMacos": null,
+  "updateUrlLinux": null,
+  "updateUrlWeb": null
 }
+
