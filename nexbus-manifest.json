@@ -1,7 +1,7 @@
 {
-  "apiBaseUrl": "https://bus-agency-tracker-production.up.railway.app",
+  "apiBaseUrl": "https://nexride.ryxnova.com/",
   "minVersion": "1.0.0",
-  "message": null,
+  "message": null, 
   "updateUrl": null,
   "updateUrlAndroid": null,
   "updateUrlIos": null,
