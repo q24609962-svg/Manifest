@@ -1,5 +1,5 @@
 {
-  "apiBaseUrl": "https://backend.nexride.cm/",
+  "apiBaseUrl": "https://backend.nexride.cm/", 
   "minVersion": "1.0.0",
   "message": null, 
   "updateUrl": null,
